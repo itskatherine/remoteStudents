@@ -1,3 +1,3 @@
-const remoteStudents = require("../remoteStudents");
+const updateRemoteStudents = require("../remoteStudents");
 
-describe("remoteStudents", () => {});
+describe("updateRemoteStudents", () => {});
